@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Pepper.IntegrationServiceBus": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7172",
+      "launchBrowser": false
+    }
+  }
+}
